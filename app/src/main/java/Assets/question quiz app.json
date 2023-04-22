@@ -1,0 +1,74 @@
+{
+    "Questions":[
+        {
+
+            "Question":"which is the first planet in our solar system?",
+            "answer1":"mercury",
+            "answer2":"Venus",
+            "answer3":"mars",
+            "answer4":"earth",
+            "correct":"mercury"
+         
+        },
+        {
+            "Question":"which is the second planet in our solar system?",
+            "answer1":"mercury",
+            "answer2":"jupiter",
+            "answer3":"saturn",
+            "answer4":"venus",
+            "correct":"venus"
+        },
+        {
+            "Question":"which is the third planet in our solar system?",
+            "answer1":"mercury",
+            "answer2":"uranus",
+            "answer3":"mars",
+            "answer4":"earth",
+            "correct":"earth"
+        },
+        {
+            "Question":"which is the fourth planet in our solar system?",
+            "answer1":"saturn",
+            "answer2":"jupiter",
+            "answer3":"mars",
+            "answer4":"earth",
+            "correct":"mars"
+        },
+        {
+            "Question":"which is the fifth planet in our solar system?",
+            "answer1":"jupiter",
+            "answer2":"venus",
+            "answer3":"mars",
+            "answer4":"earth",
+            "correct":"jupiter"
+        },
+        {
+            "Question":"which is the sixth planet in our solar system?",
+            "answer1":"jupiter",
+            "answer2":"saturn",
+            "answer3":"uranus",
+            "answer4":"earth",
+            "correct":"saturn"
+        },
+        {
+            "Question":"which is the seventh planet in our solar system?",
+            "answer1":"neptune",
+            "answer2":"uranus",
+            "answer3":"mars",
+            "answer4":"earth",
+            "correct":"uranus"
+        },
+        {
+            "Question":"which is the eighth planet in our solar system?",
+            "answer1":"jupiter",
+            "answer2":"venus",
+            "answer3":"neptune",
+            "answer4":"earth",
+            "correct":"neptune"
+
+        }
+
+
+
+    ]
+} 
